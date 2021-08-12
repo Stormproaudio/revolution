@@ -1,2 +1,6 @@
-# revolution
-Magisk Module to install Viper with embedded Storm Preset and Convolver with custom android scope storage location.  Viper is based on Thomas De Witts V2.7.1.6 Viper4android with custom tweaks to ensure optimisation and flash and forget Results.
+# stormrevolution
+This is a Magisk Module for Storm Viper apk with embedded Storm Presets and Convolvers
+Magisk Iinstaller Designed by WTSXDA and Viper4android apk Originally release by Thomas De Witt
+Read Licensing Terms and Aggreement before using Storm Revolution
+Downloading our Files means you aggree to all our Terms and Conditions
+Storm Revolution V3 is BETA amd isnot a final variant of our IRS included here.
